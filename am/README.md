@@ -15,5 +15,5 @@ Story ID | Title | Description
 0284 | [ተመለሽ ድመቴ](http://my.africanstorybook.org/stories/ተመለሽ-ድመቴ) | 
 0304 | [ገብጋባው ክንዴ](http://my.africanstorybook.org/stories/ገብጋባው-ክንዴ) | ይህ ተረት የአንድ ሁለት ድግሶችን በአንድ ቀን ለመብላት አስቦ የተነሳ ክንዴ የሚባል ሰው ታሪክ ነው፡፡ ይሳካት ይሆን? እስኪ ተረቱን አንብበን እንረዳ!
 0343 | [አባቱን የታደገ ጥላሁን](http://my.africanstorybook.org/stories/አባቱን-የታደገው-ጥላሁን) | ጥላሁን የሚባል ልጅ የሰከሩ አባቱን እንዴት ከጅብ እንደታደገ የሚነግር ታሪክ።
-0350 | [የአይጢት ቤት](http://my.africanstorybook.org/stories/የአይጢት-ቤት) | 
+0350 | [የአይጢት ቤት](http://my.africanstorybook.org/stories/የአይጢት-ቤት) | -
 0360 | [ድምቶችን እንቁጠር](http://my.africanstorybook.org/stories/ድመቶችን-እንቁጠር) | -
