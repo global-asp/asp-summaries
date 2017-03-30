@@ -1,0 +1,20 @@
+Short descriptions of stories from the [African Storybook Project](http://my.africanstorybook.org) in [Hausa](https://github.com/global-asp/asp-source/tree/master/ha).
+
+Story ID | Title | Description
+-------- | ----- | -----------
+0001 | [Wani mutum mai ƙirma](http://my.africanstorybook.org/stories/wani-mutum-mai-ƙirma) | Wannan labarin wani babban mutum ne wanda duk abin da yake kewaye da shi ƙarami ne kuma gajere ne. sai ya ciyo kan matsalar ta hanyar ƙera abubuwan da suka yi daidai da tsayinshi.
+0059 | [Tabarmar ta masumman ta Akai](http://my.africanstorybook.org/stories/tabarmar-ta-masumman-ta-akai) | Wannan  yarinyar ta girma da wani tapi mai ban mamaki. Tapin Akai yana kare ta da duk mugun abu, kuma da temakon wani ɗan tsuntsun, ta samu hanya lokacin da ta bace cikin duwatsu.
+0060 | [Nakitto a makaranta](http://my.africanstorybook.org/stories/nakitto-makaranta) | Wannan labarin yana ba yara ƙarfin gwiwar zuwa  makaranta.
+0078 | [Labarin wata saniya](http://my.africanstorybook.org/stories/labarin-wata-saniya-3) | Labarin wata saniya ce da take zama butum-butumi da safe kuma ta koma cikakkar saniya da dare.
+0118 | [Tselane da ƙato](http://my.africanstorybook.org/stories/tselane-da-ƙato) | Tselani wata ƴar yarinya ce mai ƙamnar ƙauyensu. Bayan rasuwar ma’aifinta sai ta ƙi komawa cikin wani ƙauyen. Babban mutumen da yake kusa da ita yana son ya yi amfani da halin da take ci, za ya samun nasara?
+0123 | [Mu je !](http://my.africanstorybook.org/stories/mu-je) | Waɗansu sheɗaru tare da kalmomin da suka shafi: Shinshinawa, ɗanɗanawa, ganowa, taɓawa
+0141 | [Kaza da shanshani](http://my.africanstorybook.org/stories/kaza-da-shanshani-0) | Kaza da shanshani suna takara kullum tsakaninsu. Wata rana kaza da ba ta ci nasara ba, ta yi wani abin kumya.
+0166 | [Yarinyar da ta yi arziki](http://my.africanstorybook.org/stories/yarinyar-da-ta-yi-arziki-1) | Ƴan mata biyu sun tafi neman abinci.Duka biyun sun gamu da wata tsofuwa bisa hanyarsu, guda daga cikinsu ta yarda ta taimaketa
+0184 | [Mulongo da kuraye](http://my.africanstorybook.org/stories/mulongo-da-kuraye) | Mulungo ta tafi cikin daji da abokanta. Ta yi ɓatan kai kuma ta kwana ƙasan wani icce. Da ta falka, sai ta samu kanta tsakar kuraye. Ƙaƙa za ta ceton kanta?
+0197 | [Farkon zuwana kasuwa](http://my.africanstorybook.org/stories/farkon-zuwana-kasuwa) | Ranar bikin zagayoyar cikon shekara shidda na Etabo, ma’aifiwarshi da ƙanwar inarshi sun kai shi wani gari mai nisa. A kasuwar garin, abin tarifi shine daga ƙarshe ya samu wata kyauta dalilin wannan ranar.
+0281 | [Yadda Tururuwa ta ceci Habjia](http://my.africanstorybook.org/stories/yadda-tururuwa-ta-ceci-habjia-0) | Daji ya bushe, kuma tururuwa ta ji ƙishirwa. Ta kusanto tabki don ta sha ruwa amma sai ruwan suka tafi da ita kafin habjiya ta ceceta. Yaya tururuwa za ta godewa habjiyar?
+0291 | [Mi ƙanwar Idi zata ce?](http://my.africanstorybook.org/stories/mi-ƙanwar-idi-zata-ce-0) | Kakar idi ta ba shi ƙwai ya kai ma ma’aifansa. Ƙwan yana da mahimmanci wajen toya biskitin auren ƙanwar Idi. Sai dai, saman hanya, Idi ya ga wahalwalu iri-iri.
+0294 | [Ayabar kaka](http://my.africanstorybook.org/stories/ayabar-kaka-0) | Yarinya tana mamakin yadda kakarta take nana ayaba? Amma wurin da kakarta take adana ayabar sirri ne. Kuma yarinyar ba ta ji daɗin haka ba. Yaushe ne yarinyar za ta san sirrin kakar tata?
+0303 | [Namukhaywa](http://my.africanstorybook.org/stories/namukhaywa-5) | Wani mutum da ɗiyanshi shidda ƴan mata. Yana yi ma matarshi barazanar rabuwa da ita idan ba ta aifi ɗa namiji ba. Matar ta aifi ɗiya biyu tawaye, mace da namiji, karanta labarin don ka samu ƙarin  bayani.
+0312 | [Jinjirin giwa mai ƙwanƙwanto](http://my.africanstorybook.org/stories/jinjirin-giwa-mai-ƙwanƙwanto) | A lokacin dauri, hancin giwa yana da girma da gajarta, amma sabili da wata ƙaramar giwa mai ƙwanƙwanto, sai hancin ya koma dogo.
+0345 | [Kayanga da gyanɗama](http://my.africanstorybook.org/stories/la-gourde-de-khayanga) | Khayanga a perdu ses parents, mais ils lui ont laissé une gourde avec des pouvoirs magiques. Avec cette gourde elle reste en contact avec eux, mais un jour, celle-ci se brise
