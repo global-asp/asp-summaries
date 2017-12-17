@@ -8,6 +8,7 @@ Story ID | Title | Description
 0004 | [Mbuzi, Mbwa na Ng’ombe](http://my.africanstorybook.org/stories/mbuzi-mbwa-na-ng%E2%80%99ombe) | Mbuzi, Mbwa na Ng’ombe ni marafiki. Wanafunga safari pamoja kwa teksi, lakini wakati unapowadia wa kulipa nauli kwa dereva, mmoja wa marafiki anatenda jambo la kushangaza. Matokeo ya yake yansababisha kila mnyama kuwa na tabia tofauti kuhusiana na magari.
 0005 | [Anansi na Kasa](http://my.africanstorybook.org/stories/anansi-na-kasa) | Anansi hataki kushiriki viazi vikuu vitamu na rafikiye Kasa na anamfanyia hila ili asipate sehemu chochote. Kwa hivyo, Kasa anapomwalika Anansi nyumbani kwake kwenye maji maji kwa chakula cha jioni, anahakikisha kuwa Anansi vile vile hafurahii chakula chochote.
 0006 | [Anansi na Hekima](http://my.africanstorybook.org/stories/anansi-na-hekima) | Mungu wa angani anaamua kumpa Buibui Anansi chungu cha hekima. Anasisimka sana kutoka na yale anajifunza kiasi cha kutaka kukificha chungu hicho mtini ili afaidike pekee yake.  Kwa bahati mbaya, (lakini bahati nzuri kwa walimwengu), chungu kinaanguka na kuvunjika.
+0008 | [Unafanya nini?](https://github.com/global-asp/asp-new/blob/master/sw/0008_unafanya-nini.md) | Setensi fupi kutumia wakati uliopo.
 0009 | [Wapi paka wangu?](http://my.africanstorybook.org/stories/wapi-paka-wangu) | Paka wangu ametokomea.  Unaweza kumwona paka wangu popote?
 0013 | [Barua kwa mama](http://my.africanstorybook.org/stories/barua-kwa-mama) | Mama anaenda hospitalini kujifungua mtoto na bintiye anamwandikia barua.
 0016 | [Rafiki yangu Coco](http://my.africanstorybook.org/stories/rafiki-yangu-coco) | MwanCoco ni mbwa wangu.  Nduguye pia anakuja kuishi nasi na tunafurahi pamoja.  Lakini, mbwa hao wanakuwa wakubwa zaidi nami naweza tu kumlea Coco peke yake.  Anahuzunika mno wakati nduguye anarudi nyumbani. Nitafanyaje ili Coco afurahi tena?
@@ -15,6 +16,7 @@ Story ID | Title | Description
 0019 | [My first day at the market](http://my.africanstorybook.org/stories/my-first-day-market) | -
 0027 | [Uamuzi](http://my.africanstorybook.org/stories/uamuzi) | Kijiji kinafanya uamuzi wa kubadilisha maisha yao.
 0029 | [Sniffles Mamba na Punch Kipepeo](http://my.africanstorybook.org/stories/sniffles-mamba-na-punch-kipepeo) | Marafiki ni wa nini ikiwa si wa kusaidiana? Hii ni hadithi ya marafiki wawili wasio wa kawaida na ambao ni werevu. 
+0030 | [Hisia](https://github.com/global-asp/asp-new/blob/master/sw/0030_hisia.md) | Chunguza tuna hisia gani kuhusu watu na vitu mbalimbali.
 0031 | [Kisirusiru, mjinga](http://my.africanstorybook.org/stories/kisirusiru-mjinga) | Palikuwa na mvulana mdogo asiyefaulu kutenda jambo lolote vyema. Mamake alimvumilia, lakini babake hakuweza kumstahimili. Siku moja babake aliamua kumfukuza mvulana huyu kutoka nyumbani kwake.  Mama mtoto alienda na mtoto wake. Nini kilitokea kwa Kisirusiru na mamake?
 0035 | [Upepo](http://my.africanstorybook.org/stories/upepo) | Hadithi inaonyesha nguvu za upepo.
 0037 | [Mfalme wa Ndege](http://my.africanstorybook.org/stories/mfalme-wa-ndege) | Ndege wanamtaka mfalme, lakini wana shida ya kufanya uchaguzi. Wanaamua kuwa ndege atakayeruka zaidi, ndiye atafanywa mfalme.   Tai wa Kiafrika anafikiria kuwa ameshinda mashindano, lakini ndege mdogo anamtendea hila. Je, ndege wanampata mfalme?
@@ -24,10 +26,13 @@ Story ID | Title | Description
 0048 | [Sungura chini ya mti](http://my.africanstorybook.org/stories/sungura-chini-ya-mti) | Wakati sungura anapolala chini ya mtofaa, tofaa lilianguka chini.  Wakati huo huo sungura alisikia sauti ikipiga makelele “kimbia sungura, kimbia!  Ndipo ghasiaghasia zilipoanza! 
 0050 | [Meno aina gani](http://my.africanstorybook.org/stories/meno-aina-gani) | Wanyama mbali mbali wana meno tofauti.
 0051 | [Siku tuliyouona upinde](http://my.africanstorybook.org/stories/siku-tuliyouona-upinde) | Mvulana anauona upinde kwa mara ya kwanza. Bila kujua ni nini, anatamani ikiwa wangeuweka kijijini mwao.
+0052 | [Simbegwire](https://github.com/global-asp/asp-new/blob/master/sw/0052_simbegwire.md) | Baada ya mama yake Simbegwire kufariki, yeye na baba yake walifanya kila kitu pamoja. Waliishi kwa furaha mpaka pale baba yake alipoamua kuoa mwanamke mwingine. Mwanamke huyo akaanza kumtesa Simbegwire hadi Simbegwire akaamua kutoroka nyumbani.
 0056 | [Paka mwerevu](http://my.africanstorybook.org/stories/paka-mwerevu) | Bwana Kio ana paka mwerevu anayeitwa Safi.
 0059 | [Mkeka wa Akai wa kipekee](http://my.africanstorybook.org/stories/mkeka-wa-akai) | Msichana huyu mdogo anakua akiwa na mkeka wa ajabu. Mkeka wa Akai unamkinga kutokana na hatari na kwa usaidizi wa ndege mdogo, anafaulu kupata njia na kurudi nyumbani baada ya kupotea milimani.
 0062 | [Ujasiri wa Nangila](http://my.africanstorybook.org/stories/ujasiri-wa-nangila) | Je, Nangila atafaulu waliposhindwa wanaume wenye nguvu?
 0065 | [Ah! Mpira!](http://my.africanstorybook.org/stories/ah-mpira) | Mvulana mdogo alitumwa dukani na bibiye kununua vitu vichache.  Anaambatana na rafikiye na kucheza mpira.  Je, atampelekea bibi alichotumwa?
+0066 | [Nozibele na nywele tatu](https://github.com/global-asp/asp-new/blob/master/sw/0066_nozibele-na-nywele-tatu.md) | Wasichana watutu wanakusanya kuni mchana wakati wa jua kali. Wakaamua kwenda kuogelea waliogelea kwa muda mrefu hadi wakachelewa kurudi nyumabani. Walipokuwa wakirudi njiani Nozibele akagundua amesahau shanga zake akamua kuzirudia. Safari yake ikageuka ya maajabu.
+0067 | [Kupika](https://github.com/global-asp/asp-new/blob/master/sw/0067_kupika.md) | Nasaidia kuandaa mboga kwa ajili ya mlo. Kuna mboga moja huwa sipendi kuindaa.
 0072 | [Kisasi cha Asali-Ndege](http://my.africanstorybook.org/stories/kisasi-cha-asali-ndege) | Mwindaji kijana anafuata asali-ndege ili kuufikia mzinga wa nyuki uliojaa asali mbivu.  Badala ya kumshukuru ndege kwa kumgawia asali, anamfukuza. Wakati mwingine kijana anapotafuta asali, ndege analipiza kisasi!
 0078 | [Vituko vya Ng’ombe Shujaa](http://my.africanstorybook.org/stories/vituko-vya-ng%E2%80%99ombe-shujaa) | Hadithi inayowafaa watoto wanaotambaa kuhusu ng’ombe ambaye anajulikana mchana kama kifaa cha kuchezea, lakini usiku ni ‘ng’ombe wa vituko’ anayepiga vita uhalifu na kuwaokoa watu.
 0081 | [Msitu wa nyoka](http://my.africanstorybook.org/stories/msitu-wa-nyoka) | Wasichana watatu wanakwenda msituni kutafuta kuni. Ingawa nyanya yao ametoa onyo, msichana mmoja anafanya kitendo cha hatari mno.
@@ -39,21 +44,27 @@ Story ID | Title | Description
 0091 | [Kima apoteza mkia wake](http://my.africanstorybook.org/stories/kima-apoteza-mkia-wake) | Sungura huyo na vituko vyake tena!
 0092 | [Sungura na Kobe (Tena!)](http://my.africanstorybook.org/stories/sungura-na-kobe-tena) | Unakumbuka jinsi kobe mwenda pole alivyomshinda sungura mwenye kiburi katika ile mbio kuu hapo zamani?  Sasa hao wawili wamerudi, na wana kazi wanayotakiwa kukamilisha.  Je, hawa wapinzani wawili wanaweza fanya kazi pamoja?
 0094 | [Anansi, Kunguru na Mamba](http://my.africanstorybook.org/stories/anansi-kunguru-na-mamba) | Anansi mlafi anajaribu kumlaghai rafikize kunguru ili wampe tini nyingi kuliko pato lake. Kunguru wanagundua ujanja wake na kumuacha katika kiziwa. Anajaribu kuruka lakini anaanguka mtoni katikati ya mamba wenye njaa.  Inaoneonekana kama mwisho wa Anansi, je, atapata njia ya kujiokoa?
+0095 | [Zama ni mkubwa](https://github.com/global-asp/asp-new/blob/master/sw/0095_zama-ni-mkubwa.md) | Hadithi hii inatufundisha kuwa tunapo waadhibu watoto wetu, tunapaswa kuwasifia pia, pale wanapo fanya vizuri.
 0096 | [Siku Upinde ulitembelea kijiji](http://my.africanstorybook.org/stories/siku-upinde-ulitembelea-kijiji) | -
 0102 | [Kalabushe, chiriku](http://my.africanstorybook.org/stories/kalabushe-chiriku) | Kalabushe ni mcheshi, mdadisi na anapenda kuongea sana.  Hali hii inamwelekeza taabani lakini vile vile inamwezesha kuepuka shida.  Je, unajifunza nini kutoka kwa Kalabushe?
 0105 | [Bi Simu](http://my.africanstorybook.org/stories/bi-simu) | Bi Simu ni mhusika wa kiajabu! Je, unaweza fikiria kuwa na simu tano za kuwasiliana na watu tofauti?
 0107 | [Bweha na jua](http://my.africanstorybook.org/stories/bweha-na-jua) | -
 0110 | [Hadithi ya Wangari Maathai](http://my.africanstorybook.org/stories/hadithi-ya-wangari-maathai) | -
+0111 | [Kwa nini Viboko hawana nywele](https://github.com/global-asp/asp-new/blob/master/sw/0111_kwa-nini-viboko-hawana-nywele.md) | Katika hadithi hii ya Nyungwe, tunaona kilicho mpata sungura baada ya kukataa kumsamehe kiboko kwa kumkanyaga mguu wake.
 0112 | [Mwili wangu](http://my.africanstorybook.org/stories/mwili-wangu) | -
+0120 | [Nywele](https://github.com/global-asp/asp-new/blob/master/sw/0120_nywele.md) | Chunguza ni kwa kiasi gani watu hupenda kutengeneza nywele zao.
 0121 | [Uji](http://my.africanstorybook.org/stories/uji) | Mama hayuko nyumbani na Baba anatayarisha uji wa asubuhi.
+0129 | [Mdogo wangu mvivu](https://github.com/global-asp/asp-new/blob/master/sw/0129_mdogo-wangu-mvivu.md) | Kaka hushikwa na hasira pale mdogo wake anapo tumia muda wake wote akicheza huku kazi zote za ndani zikifanywa naye.
 0132 | [Nguruwe hawakubaliwi](http://my.africanstorybook.org/stories/nguruwe-hawakubaliwi) | -
 0135 | [Kima mwenye rangi ya kijani kibichi ala mkia wake](http://my.africanstorybook.org/stories/kima-mwenye-rangi-ya-kijani-kibichi-ala-mkia-wake) | -
 0136 | [Shati la Hamisi la kijani kibichi](http://my.africanstorybook.org/stories/shati-la-hamisi-la-kijani-kibichi%0B) | -
+0141 | [Kuku na Jongoo](https://github.com/global-asp/asp-new/blob/master/sw/0141_kuku-na-jongoo.md) | Kuku na jongoo wana urafiki wenye ushindani mkubwa. Kuna siku moja kuku alishikwa na hasira aliposhindwa akafanya kitu cha kipumbavu.
 0147 | [Mimi na familia yangu](http://my.africanstorybook.org/stories/mimi-na-familia-yangu) | Hadithi inasimulia kuhusu vituko vya mvulana mdogo na familia yake isiyo ya kawaida!
 0149 | [Mwezi na Kofia](http://my.africanstorybook.org/stories/mwezi-na-kofia) | Mvulana mdogo anapokea kofia ya bluu kutoka kwa mamake. Upepo unaipuliza na kuiweka kofia hiyo mtini na mvulana anahuzunika sana. Usiku mtu mwingine anaonekana kuvaa ile kofia na hili halimsumbui mvulana yule. Je, ataipata kofia yake?
 0152 | [Mtoto, shida ni nini?](http://my.africanstorybook.org/stories/what-wrong-child-mtoto-shida-ni-nini) | Je, mama atajuaje sababu inayomfanya mtoto wake kulia?
 0154 | [Kima na mke wa mwindaji](http://my.africanstorybook.org/stories/kima-na-mke-wa-mwindaji) | -
 0156 | [Mamba mwenye njaa](http://my.africanstorybook.org/stories/mamba-mwenye-njaa) | Mamba mwenye njaa anaendea majini...
+0158 | [Kuku na Tai](https://github.com/global-asp/asp-new/blob/master/sw/0158_kuku-na-tai.md) | Kuna kipindi kuku na tai walikuwa marafiki wazuri. Kuku aliazima sindano kutoka kwa tai na sindano ikapotea. Tai alikasirika sana na anataka kulipiza.
 0166 | [Msichana aliyetajirika](http://my.africanstorybook.org/stories/msichana-aliyetajirika) | -
 0167 | [Jua la Saba](http://my.africanstorybook.org/stories/jua-la-saba) | -
 0169 | [Anansi awapa watu hadithi](http://my.africanstorybook.org/stories/anansi-awapa-watu-hadithi) | Hapo kale, mungu wa anga alizifungia hadithi zote katika sanduku la mbao.  Watu walimwendea Anansi mwakili amuulize mungu wa anga kuwapa hadithi. Mungu wa anga alikubali kufanya hivyo ikiwa Anansi angetegeleza kazi tatu zisizowezekana.
@@ -70,6 +81,7 @@ Story ID | Title | Description
 0201 | [Mtoto punda](http://my.africanstorybook.org/stories/mtoto-punda) | Hadithi yenye kuchemsha bongo juu ya utafutaji wa mahali pako duniani.
 0202 | [Refiloe na kuku waliooshwa](http://my.africanstorybook.org/stories/refiloe-na-kuku-waliooshwa) | Dadake Refiloe anaolewa. Kuku wa Refiloe ni wachafu, hivyo anaamua kuwaosha.  Kuku hawapendi kuoshwa.  Refiloe hawapati kuku wake 
 0206 | [Meno](http://my.africanstorybook.org/stories/meno-0) | Aina za wanyama mbalimbali wana pia aina ya meno mbalimbali. 
+0210 | [Tingi na Ng'ombe](https://github.com/global-asp/asp-new/blob/master/sw/0210_tingi-na-ngombe.md) | Bibi aokoa maisha ya Tingi.
 0213 | [Jimbi na Sungura](http://my.africanstorybook.org/stories/jimbi-na-sungura) | Tahadhari na kinachoweza kutendeka unapomchezea mtu shere.
 0214 | [Panya](http://my.africanstorybook.org/stories/panya) | Panya wa nyika anamtembelea panya wa nyumbani kuona maisha yake mazuri akiwa nayo nyumbani.  Lakini uchoyo wa panya wa nyumbani unamshinda naye panya wa nyika anaona thamani iliyopo nyumbani mwake kwenyewe.
 0215 | [Kifungua kinywa](http://my.africanstorybook.org/stories/kifungua-kinywa) | Baba hupenda sana uji wa mahindi,mkate wa siagi na matufaa kwa chakula cha asubuhi.
@@ -78,6 +90,7 @@ Story ID | Title | Description
 0220 | [Mlinzi na chekechea yake ya kipekee](http://my.africanstorybook.org/stories/mlinzi-na-chekechea-yake-ya-kipekee) | -
 0230 | [Samaki mkarimu](http://my.africanstorybook.org/stories/samaki-mkarimu) | Mwalimu kwa jina Goso aliwafunzia watoto chini ya mbuyu. Siku moja Paa mwenye njaa alienda kuiba matunda kutoka mti huo.  Aliutikisa mti kwa nguvu hadi matunda yakamuangukia Goso kichwani na kumuua.  Watoto wanakasirika sana na kutaka kumpata aliyemuua mwalimu wao. 
 0231 | [Kitabu cha Hali ya Hewa](http://my.africanstorybook.org/stories/kitabu-cha-hali-ya-hewa) | Chunguza hali ya anga tofauti na jinsi tunahisi kuhusu hali ya anga.
+0234 | [Andiswa Nyota wa Mpira wa Miguu](https://github.com/global-asp/asp-new/blob/master/sw/0234_andiswa-nyota-wa-mpira-wa-miguu.md) | Andiswa anataka kucheza mpira wa miguu kwenye timu ya shule, lakini kocha anasema mpira wa miguu ni kwa wavula tu. Andiswa alibahatika kupata nafasi ya kucheza kwenye moja ya mechi muhimu na kuwaonesha watu kuwa walikosea kufikiria mpira wa miguu ni kwa wavulana pekee.
 0236 | [Mfalme Kayanja na binti yake](http://my.africanstorybook.org/stories/mfalme-kayanja-na-binti-yake) | -
 0237 | [Naweza fanya hivi](http://my.africanstorybook.org/stories/naweza-fanya-hivi) | -
 0239 | [Namorutunga](http://my.africanstorybook.org/stories/namorutunga) | Namorutunga ni mahali pa kale Kenya penye nguzo 19 za mawe.  Hadithi hii inaeleza jinsi mawe hayo yalikuja kuwepo mahali hapo. 
@@ -103,9 +116,13 @@ Story ID | Title | Description
 0285 | [Ajali mbaya](http://my.africanstorybook.org/stories/ajali-mbaya) | Watoto wawili wanashuhudia ajali mbaya inayowashtuwa sana.
 0288 | [Maguru apeana miguu](http://my.africanstorybook.org/stories/maguru-apeana-miguu) | -
 0289 | [Anansi na Tai](http://my.africanstorybook.org/stories/anansi-na-tai) | Anansi ni maskini, lakini rafiki yake Sungura ni mkulima tajiri.  Anansi ana wivu na anatafuta njia ya kupokonya shamba la rafikiye.  Anapata hela nyingi kwa kuuza matunda ya Sungura na mboga.  Lakini siku moja alipokuwa njiani akirudi kutoka sokoni, jambo lilitokea lililobadilisha bahati ya Anansi tena.
+0291 | [Alicho kisema dada yake Vusi](https://github.com/global-asp/asp-new/blob/master/sw/0291_alicho-kisema-dada-yake-vusi.md) | Bibi yake Vusi alimpa yai awapelekee wazazi wake. Yai ni moja ya kiungo muhimu cha kutengenezea keki kwenye harusi ya dada yake. Lakini alipokuwa akielekea kwa wazazi wake yai lilivunjika na hapo ndipo matatizo ya Vusi yalipo anzia.
 0293 | [Ninafurahia](http://my.africanstorybook.org/stories/ninafurahi-i-enjoy) | Hadithi katika lugha mbili inayoelezea vitu vyote ambavyo msichana mdogo anafurahia kutenda.
+0294 | [Ndizi za Bibi](https://github.com/global-asp/asp-new/blob/master/sw/0294_ndizi-za-bibi.md) | Msichana mdogo anashauku anapo angalia bibi yake akiandaa ndizi mbivu.
+0296 | [Tom muuza ndizi](https://github.com/global-asp/asp-new/blob/master/sw/0296_tom-muuza-ndizi.md) | Mtu anakiuka taratibu za jamii kwa kupeleka ndizi sokoni.
 0297 | [Mke Mti](http://my.africanstorybook.org/stories/mke-mti) | Mzee ana kila kitu anachotaka – ila mke. Hivyo anachonga mmoja kutoka mtini.  Vijana wanaume kutoka kijiji jirani wanaamua kwamba mke huyu ni mrembo sana kwa mzee huyu kwa hivyo wanamuiba. Anahuzunika sana na kufanya kila njia ya kumpata.
 0299 | [Kobe apata nyumba yake](http://my.africanstorybook.org/stories/kobe-apata-nyumba-yake-0) | -
+0302 | [Moto](https://github.com/global-asp/asp-new/blob/master/sw/0302_moto.md) | Moto unafanya vitu vingi vizuri, lakini pia baadhi vibaya. Hadithi hii iliandaliwa na kuandikwa na walimu wa shule ya msingi ya kata ya Busolwe, wilaya ya Butaleja Uganda.
 0303 | [Namukhaywa](http://my.africanstorybook.org/stories/namukhaywa-1) | Hadithi ya mwnamme na mkewe aliyemzalia watoto wasichana pekee. Anamwonya mkewe kuwa akimzaa mtoto msichana tena atamuua lakini iwapo atamzalia mvulana atamwaandalia karamu.  Mkewe anaenda kwa mkunga wa kienyeji na kujifungua mapacha. Soma ujue alichofanya baada ya hilo.
 0312 | [Mtoto Wa Tembo Mdadisi](http://my.africanstorybook.org/stories/mtoto-wa-tembo-mdadisi) | -
 0313 | [Kahawia](http://my.africanstorybook.org/stories/kahawia) | Kitabu hiki kina mitungo na picha inayotoa maelezo kuhusu vitu vya kawaida vya rangi ya kahawia.
@@ -115,6 +132,7 @@ Story ID | Title | Description
 0323 | [Maharagwe Yanayomea](http://my.africanstorybook.org/stories/maharagwe-yanayomea) | Panda mbegu ya harage kisha uone kinachotokea unapoipa maji na kuiangalia vyema.
 0324 | [Siku niliyoondoka nyumbani kuelekea jijini](http://my.africanstorybook.org/stories/siku-niliyokwenda-jijini) | Mvulana anaondoka nyumbani kwenda kwa mjombake katika jiji kubwa. Hajui ikiwa atawahi kurudi kijijini mwao tena.
 0326 | [Mfuko uzungumzao](http://my.africanstorybook.org/stories/mkoba-uzungumzao) | Wasichana watatu wadogo wanakutana na jitu ambalo lajifanya kutaka msaada wao. Wakati jitu linamwongoza msichana mmoja mbali mtu mmoja anawasimamisha na kuuliza jina la msichana yule. Nini kitakachotokea kwa msichana huyo?
+0327 | [Kuhesabu wanyama](https://github.com/global-asp/asp-new/blob/master/sw/0327_kuhesabu-wanyama.md) | Wanyama wote wanakiu. Wahesabu wakiwa wanaenda kunywa maji.
 0329 | [Kwa nini Anansi ana miguu minane myembamba](http://my.africanstorybook.org/stories/jinsi-anansi-alivyopata-miguu-minane-myembamba) | Anansi Buibui anapenda kula lakini hataki kazi ya kupika chakula. Anawaza juu itakayomwezesha wenzake wamjulishe chakula kinapokuwa tayari. Lakini kwa bahati mbaya, mpango unaharibika na matokeo ni sababu ya buibui wana miguu mirefu miembamba.
 0332 | [Simba na Ngiri](http://my.africanstorybook.org/stories/simba-na-ngiri) | Ngiri anamnasua Simba kutoka kwenye mtego wa mwindaji. Je, Simba anafanya nini baada ya hayo?
 0335 | [Rafiki ninayemkosa](http://my.africanstorybook.org/stories/rafiki-ninayemkosa) | Hadithi hii ni kuhusu rafiki yangu Muthoni.Tulisoma pamoja na kufanya kila kitu pamoja lakini mwishowe alipotea.
