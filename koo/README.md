@@ -30,7 +30,7 @@ Story ID | Title | Description
 0156 | Engonya y'amakwa Enzalha | Egonya yabirikwa enzalha neryo muyakulhulhuka erilhwa omwa maghetse.
 0158 | W'ankoko na W'isamba | Enkoko haima N’Ereisamba byabya binywani. Kiro kighuma engoko muyayibweka enginzo y’erisamba. Yabere yathalha neryo olhubanza mulhwathwika, neryo Erisamba Nawankoko bwabiribya buyinghu.
 0201 | Akana K'epunda | Emibere yerisondekania emikalire yaghu omwakihugha.
-0210 | Tingi N'esyande | Mukaka wa Tingi mwatsunirya / mwalhamya obuyingo bwiwe.
+0210 | Tingi N'esyande | Mukaka wa Tingi mwatsunirya, mwalhamya obuyingo bwiwe.
 0231 | Ekitabu ky'obuthuku | Esyambinduka sy’obuthuku.
 0234 | Andiswa omusathi owomupira | Andiswa anzire erisatha omupira nekithongole ekyerithendekero.
 0243 | Ekihumuro E'wamukaka | Abana babiri bakathekatheka eriyalebya mukaka wabo. Bakayisyethera ewamukaka wabo nerithendianza erilhwayo.
@@ -39,10 +39,10 @@ Story ID | Title | Description
 0271 | Ibiri | Emihandikire yebindu bibiri bibiri - ebyalha, ebisandu, amathwe, ameso haima n’amaboko
 0291 | Mwaliwabu Vusi Mwabukaki? | Mukaka wa Vusi mwamuhererya eriya arithwalha eyiri ababuthi biwe nuko bangakolha omugati wobugheni bwa mwaliwabu. Omwanzira, Vusi mwabana ebitsibu.
 0294 | Ameeru A'mukaka | Akambesa mukanza eriyitheghererya mukaka wako kwakathalikirira amasukali.
-0296 | Tom omusuburi w'ameeru | Omulhume mwakolha ebitakiriribawa / erilholho, mwaletha amasukali omwakathale eriyawulyawo.
+0296 | Tom omusuburi w'ameeru | Omulhume mwakolha ebitakiriribawa, erilholho, mwaletha amasukali omwakathale eriyawulyawo.
 0302 | Omuliro | Omuliro akakolha ebibuya haima nebibi. Omughane ono mwahulhukibwa n’abathendeki ow’eritendekero lya Mugulu. e’Busolwe omwa District ye Butaleja, Uganda.
 0315 | Olwimbo lwa Sakima | Omulhwana endimethime mwahumulikania omugaga y’omwalhwimbo. Soma wangalhangira ewasingya abyathungire.
 0324 | Ekiro Nalw'eka ingaghenda omw'akibugha | Omulhwana mwalwa omwakyalo erighenda ewa nyokolhome wiwe omwamuyi munene, isyasi nganasyasubulha.
 0327 | Eribara ebisoro | Ebisoro ebyosi byakwire enyotha. Bikaghanzawa bikayanywa.
 0337 | Abana b'enimba | Habya abana basathu omwihika, aliryo ibakolirwe omwa nimba.
-0342 | Ekifubiro | Omulwana oyukahunga ebyalya / ebighuma bakamufubira bathi?
+0342 | Ekifubiro | Omulwana oyukahunga ebyalya, ebighuma bakamufubira bathi?
